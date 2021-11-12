@@ -1,0 +1,24 @@
+{
+    "name": "timwassenburg/laravel-dutch-phone-number-validator",
+    "description": "Validate if the input is a valid Dutch phone number",
+    "keywords": ["validation", "php", "laravel", "phone", "number"],
+    "homepage": "https://github.com/timwassenburg/laravel-dutch-phone-number-validator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Wassenburg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TimWassenburg\\DutchPhoneNumberValidator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TimWassenburg\\DutchPhoneNumberValidator\\PhoneValidatorServiceProvider"
+            ]
+        }
+    }
+}
