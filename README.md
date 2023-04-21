@@ -12,6 +12,10 @@
 <br><br>
 </div>
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/timwassenburg/laravel-dutch-phone-number-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
+[![Total Downloads](https://img.shields.io/packagist/dt/timwassenburg/laravel-dutch-phone-number-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
+[![License](https://img.shields.io/packagist/l/timwassenburg/laravel-dutch-phone-number-validator)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
+
 ## Table of Contents
   <ol>
     <li><a href="#installation">Installation</a></li>
