@@ -1,20 +1,10 @@
-<br />
-<div align="center">
-  <a href="https://github.com/timwassenburg/laravel-dutch-phone-number-validator">
-    <img src="img/logo.png" alt="Logo" width=120>
-  </a>
-
-<h1 align="center">Laravel Dutch Phone Number Validator</h1>
-
-  <p align="center">
-    Validate if the given phone number is a valid Dutch phone number
-  </p>
-<br><br>
-</div>
+<img src="img/banner.png" alt="Logo">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/timwassenburg/laravel-dutch-phone-number-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
 [![Total Downloads](https://img.shields.io/packagist/dt/timwassenburg/laravel-dutch-phone-number-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
 [![License](https://img.shields.io/packagist/l/timwassenburg/laravel-dutch-phone-number-validator)](https://packagist.org/packages/timwassenburg/laravel-dutch-phone-number-validator)
+
+<hr>
 
 ## Table of Contents
   <ol>
